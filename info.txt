@@ -1,4 +1,5 @@
 Srednie ceny paliw w Lublinie:
 <br/>95- 7,31 zl
 <br/>ON- 7,56 zl
-<br/>LPG- 3,67 zl   
+<br/>LPG- 3,67 zl  
+<br/>
